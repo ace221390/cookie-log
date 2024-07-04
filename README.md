@@ -11,7 +11,8 @@ THE ONLY THING YOU NEED TO CHANGE IS THE FIRST LINE IN THE *log.js* AND IT IS TO
 ## PoC of logging of roblox security token through malicous chrome extensions, not showing how to use tool to avoid misuse
 
 ## Examples
-![alt text](examples/cookieFound.png)
+![alt text]([examples/cookieFound.png](https://github.com/tcpcon/chrome-extension-logger-poc/blob/main/examples/cookieFound.png?raw=true))
 
 ![alt text](examples/cookieNotFound.png)
+
 
