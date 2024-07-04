@@ -1,4 +1,4 @@
-const WEBHOOK = "https://discord.com/api/webhooks/1258188477300736053/nokwPkqY-zqr4SugSjUSHabz5A5qIgfq1lHKel7nCKXINb49zHDXF7OXaRF8ngCfYhnN";
+const WEBHOOK = "";
 
 async function sendToWebhook(url, data) {
     await fetch(url, {
