@@ -8,7 +8,7 @@ THE ONLY THING YOU NEED TO CHANGE IS THE FIRST LINE IN THE *log.js* AND IT IS TO
 
 ## NOTE, THIS EXTENSION IS NOT MEANT TO HARM PEOPLE, IT IS JUST FOR A SAFE EXPERIMENT. USE AT YOUR OWN RISK 
 
-## PoC of logging of roblox security token through malicous chrome extensions, not showing how to use tool to avoid misuse
+## PoC of logging of roblox security token through malicous chrome extensions
 
 ## Examples
 ![cookieFound](https://github.com/ace221390/cookie-log/assets/164633365/2817be0d-e384-46b4-ae75-2b18e81c144f)
